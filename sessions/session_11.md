@@ -1,4 +1,4 @@
-We begin at the outside of the [[Netherese]] tower. Both [[Vellen Harpelle]] and [[Avarice]] refuse to let the other in. We put on our crampons and move down the tunnel. We slide down the tunnel and emerge into a room.
+We begin at the outside of the [[Netherese]] tower. Both [[Vellyn Harpelle]] and [[Avarice]] refuse to let the other in. We put on our crampons and move down the tunnel. We slide down the tunnel and emerge into a room.
 
 We climb through a door that is ajar. and enter a hallway. We open a door and are attacked by some strong [[bugbear]]s. We almost die and have to call for help from [[Avarice]] who absolutely murders all the [[bugbear]]s. [[Bael]] is thrown down a hole but gracefully lands.
 
@@ -39,7 +39,7 @@ We agree to help [[Dazzan]]'s simulacrum come back to life. He tells us that the
 
 We find a human skeleton in tattered robes, the remains of an apprentice who died in the crash. We are able to finish a scroll of mending and decide to head down the hole and are attacked by a [[basilisk]]. [[Bael]] is petrified while fighting the [[basilisk]]. [[Murdoch]] and [[Worthy]] kill it and continue exploring. As they explore they find the room where we could revive [[Dazzan]].
 
-[[Dazzan]] tells us that the city is somewhere to the east under an iceberg. The [[Arcane Brotherhood]] is going to camp out at the tower. [[Dazzan]] informs the rest of the [[Arcane Brotherhood]] of the possible location of the city. We need a weapon or magic to get through the ice to get to the city. [[Vellen Harpelle]] tells us that we might have some luck if we speak with followers of [[Auril]].
+[[Dazzan]] tells us that the city is somewhere to the east under an iceberg. The [[Arcane Brotherhood]] is going to camp out at the tower. [[Dazzan]] informs the rest of the [[Arcane Brotherhood]] of the possible location of the city. We need a weapon or magic to get through the ice to get to the city. [[Vellyn Harpelle]] tells us that we might have some luck if we speak with followers of [[Auril]].
 
 Next Session:
 - Travel to the [[Spine of the World]]

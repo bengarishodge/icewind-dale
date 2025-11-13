@@ -1,4 +1,4 @@
-A bunch of [[kobold]]s have invaded the mine of [[Termalaine]]. We also are tasked by [[Vellen Harpelle]] to collect up the bodies and deliver them to her. There is a massive hole in the middle of the [[Termalaine Mine]].
+A bunch of [[kobold]]s have invaded the mine of [[Termalaine]]. We also are tasked by [[Vellyn Harpelle]] to collect up the bodies and deliver them to her. There is a massive hole in the middle of the [[Termalaine Mine]].
 
 We enter the mine into the dark mine. 
 
@@ -12,8 +12,8 @@ We meet the [[kobold]]s in the mine and they are really nice and [[Bael]] feels 
 
 We find a skull of a [[mind flayer]]. We find a [[psi crystal]].
 
-[[Sergeant Hathlen Arkora]] accepts our deal to help the [[kobold]]s work in the mine. We also deliver the body of the [[beaked tentacled monster]] to [[Vellen Harpelle]].
+[[Sergeant Hathlen Arkora]] accepts our deal to help the [[kobold]]s work in the mine. We also deliver the body of the [[beaked tentacled monster]] to [[Vellyn Harpelle]].
 
 ## Reward
  - 50gp
- - mentorship from [[Vellen Harpelle]] for [[Bael]]
+ - mentorship from [[Vellyn Harpelle]] for [[Bael]]

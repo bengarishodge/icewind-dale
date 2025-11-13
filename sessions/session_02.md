@@ -16,7 +16,7 @@ We go to the [[East Side Inn]] and spend the night.
 
 The next morning we wake up and head towards the [[Termalaine Mine]] first light. The trip to the mine takes 30 minutes. As we approach the mine we see a open tunnel on a hillside next to a sign saying it belongs to kobolds.
 
-We clear out the [[Termalaine Mine]] and speak with [[Sergeant Hathlen Arkora]]. We speak with [[Vellen Harpelle]] and learn more about [[Skam]]'s music sheet.
+We clear out the [[Termalaine Mine]] and speak with [[Sergeant Hathlen Arkora]]. We speak with [[Vellyn Harpelle]] and learn more about [[Skam]]'s music sheet.
 
 The town of [[Termalaine]] holds a vote and the town elects the [[Sergeant Hathlen Arkora]] as the speaker of the town. We complete the [[(completed) get the sergeant elected to power in Termalaine]] quest.
 

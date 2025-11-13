@@ -23,11 +23,11 @@ While we were in the woods and stumbling around we found polar bear tracks. We f
 
 We continue to the [[Netherese]] tower to the east. On our travels there is a heard of deer that is attacked by a [[white dragon]] with a rider atop it. Its den is likely to the west. We ask the deer about the dragon and they tell us all they know. The deer is named [[Elko]].
 
-We cross the rivers and see a rock tower ahead of us. It looks like the rock was thrust into the ground. We do see some people at the base of the structure and approach the camp. We see [[Avarice]] and [[Vellen Harpelle]] both accompanied by some expeditioners with them.
+We cross the rivers and see a rock tower ahead of us. It looks like the rock was thrust into the ground. We do see some people at the base of the structure and approach the camp. We see [[Avarice]] and [[Vellyn Harpelle]] both accompanied by some expeditioners with them.
 
 [[Worthy]] sees [[Avarice]] and they confront each other. [[Avarice]] tells her that she hasn't heard from their family and she is singularly consumed with finding [[Netherese]] artifacts for the [[Arcane Brotherhood]].
 
-We spot a tunnel in the ice that would lead into the tower. We convince both [[Vellen Harpelle]] and [[Avarice]] to work together.
+We spot a tunnel in the ice that would lead into the tower. We convince both [[Vellyn Harpelle]] and [[Avarice]] to work together.
 
 Next time
 - explore the [[Netherese]] tower.

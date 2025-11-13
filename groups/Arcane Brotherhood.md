@@ -3,5 +3,5 @@ brotherhood of magical folks. All of which are trying to find [[Netherese]] arti
 Members are:
 - [[Dazzan]]
 - [[Avarice]]
-- [[Vellen Harpelle]]
+- [[Vellyn Harpelle]]
 - [[Nass Lantomir]]

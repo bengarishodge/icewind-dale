@@ -30,7 +30,7 @@ We go to the
 	- 350gp
 	- a ring with a black pearl in a fixture of whirlpool
 	- spell scrool
-		- it is a spell scroll of mass cure wounds (lvl 6) (given to [[Vellen Harpelle]])
+		- it is a spell scroll of mass cure wounds (lvl 6) (given to [[Vellyn Harpelle]])
 
 [[Bael]] creates a harness for the eggs out of grappling hooks. We head down to the basement. We arrive in a vaulted chamber. There is a happy walrus sliding on the floor. The walrus shapeshifts into a human and it is [[Arch Druid Shandra]]. We need to do the trials and battle Shandra to prove our worth. We decide to go for the trial of cruelty first.
 
@@ -46,7 +46,7 @@ We enter the trial of isolation.
 
 In solitude you can understand and harness your full potential.
 
-We are teleported to a camp of nomads of tiger tribe. They are preparing to overtake the elk tribe for resources. [[Bael]] disappears from the camp. They don't return to the camp. [[Murdoch]] disappears from camp. [[Vellen Harpelle]] disappears from camp. They all come back.
+We are teleported to a camp of nomads of tiger tribe. They are preparing to overtake the elk tribe for resources. [[Bael]] disappears from the camp. They don't return to the camp. [[Murdoch]] disappears from camp. [[Vellyn Harpelle]] disappears from camp. They all come back.
 
 ---
 We enter the trial of endurance
@@ -70,7 +70,7 @@ Snowflakes
 - [[Bael]] has cruelty, endurance
 - [[Skam]] has cruelty, isolation
 - [[Murdoch]] has cruelty
-- [[Vellen Harpelle]] has cruelty
+- [[Vellyn Harpelle]] has cruelty
 
 
 Next time

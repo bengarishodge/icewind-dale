@@ -4,9 +4,9 @@
 	- Arcane Study
 		- making blank books for 10gp each
 
-We are hanging out in the [[White Moose Inn]] and we are approached by [[Vellen Harpelle]]. She says that [[Nass Lantomir]] stole her [[Professor Skant]] orb. She asks to accompany us and she is going to ride her undead [[grick]]. We purchase equipment.
+We are hanging out in the [[White Moose Inn]] and we are approached by [[Vellyn Harpelle]]. She says that [[Nass Lantomir]] stole her [[Professor Skant]] orb. She asks to accompany us and she is going to ride her undead [[grick]]. We purchase equipment.
 
-We head out on our [[gryffin]]s with [[Vellen Harpelle]]. [[Bael]] has begun embracing the [[ceromorph]] powers and gains telepathy.
+We head out on our [[gryffin]]s with [[Vellyn Harpelle]]. [[Bael]] has begun embracing the [[ceromorph]] powers and gains telepathy.
 
 As we are flying to the island, we see [[Auril]] on her bird. 
 ![[auril_weaving.png]]

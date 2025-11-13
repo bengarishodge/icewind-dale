@@ -1,1 +1,1 @@
- A [[Netherese]] orb that can speak and knows a lot of stuff about the [[Netherese]]. Currently in posession of [[Vellen Harpelle]].
+ A [[Netherese]] orb that can speak and knows a lot of stuff about the [[Netherese]]. Currently in posession of [[Vellyn Harpelle]].
