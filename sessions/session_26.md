@@ -32,7 +32,9 @@ We take a short rest at the tower near the entrance. We find another tunnel and 
 
 We slide the head down the tunnel and continue searching for its body. Clinging to the top of one of the rooms, we stumble into a room through a tunnel. We see 2 drow hiding behind the statues. The drow threaten us and tell us to leave. We decide to ignore them and continue on through the city.
 
-We kill the warriors but the drow mage escapes.
+We kill the warriors but the drow mage escapes. We find a thermal cube. There is a half empty bottle of a liquid. [[Professor Skant]] says it elverquist, an alcoholic beverage.
+
+We press on through the tunnel and come across another room. As we enter the room we hear "none shall take my spark". The voice sounds like a goliath. [[Arceus]] probably needs to be here.
 
 Next time:
 - continue towards the city
