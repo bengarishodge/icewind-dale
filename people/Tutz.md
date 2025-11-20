@@ -1,0 +1,1 @@
+A mummy trapped in the ice. Wrapped 2000 years ago by the [[Netherese]]. Won't attack if don't impede his journey.
