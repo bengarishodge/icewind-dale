@@ -1,0 +1,1 @@
+Legendary warrior ancestor of [[Arceus]]
