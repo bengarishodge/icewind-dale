@@ -1,0 +1,1 @@
+Awakened penguin belonging to the [[Great Skervinski]].

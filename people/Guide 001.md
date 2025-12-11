@@ -1,0 +1,1 @@
+Golem that we carried through the caverns.

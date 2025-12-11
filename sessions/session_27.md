@@ -28,6 +28,9 @@ Amphitheater
 We head towards an amphitheater which has static air. There is a tiny glittering object on a pedestal. We play a game and lose.
 
 School of Abjuration tower
+
+![[school_of_abjuration_tower.png]]
+
 We go to a tower and and enter it. The building has a lot of blue. We climb the tower and find a stone double door, carved with inhumane precision. There are scary creatures carved into the door.
 ![[slug_horror.png]]
 ![[slug_horror_2.png]]
@@ -49,8 +52,8 @@ And the anvil says the following.
 
 The right of the Arcane Octad (there are 7 lines)
 
-Line 1: "shield thy heart with wand from the netheroak".
-Line 2: ""
+Line 1: "shield thy heart with wand from the netheroak" (From anvil)
+Line 2: "Summon a flame in your palm" (From Devil)
 
 Next time:
 - we decend the tower and continue searching the city.
