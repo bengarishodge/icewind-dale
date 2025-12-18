@@ -30,7 +30,7 @@ We leave the tower after eating and head to the library.
 **library**
 The door is ajar and we head into the building. Inside we see a strange bispecticaled jackel headed humanoid with a mummy and a giant penguin. The jackel headed humanoid is asking the mummy for copies.
 
-We speak with [[Sah'nar]]. [[Skam]] is butthurt about [[Sah'nar]] not helping us fight the mimic. The jackal headed person spins around and says that they are the [[Great Skervinski]]. He is roaming the planes in search of particular books. He is an [[Aranoloth]].
+We speak with [[Sah'nar]]. [[Skam]] is butthurt about [[Sah'nar]] not helping us fight the mimic. The jackal headed person spins around and says that they are the [[Great Skervinski]]. He is roaming the planes in search of particular books. He is an [[Arcanoloth]].
 ![[arcanaloth.png]]
 
  He is looking for one of the books of keeping. It is one of 4 lost tomes.

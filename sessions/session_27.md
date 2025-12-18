@@ -54,6 +54,9 @@ The right of the Arcane Octad (there are 7 lines)
 
 Line 1: "shield thy heart with wand from the netheroak" (From anvil)
 Line 2: "Summon a flame in your palm" (From Devil)
+Line 3: "a burnt palm loosens the tongue, shed a secret about yourself for all to hear." (from [[High Diviner Apius]])
+Line 4: "Coax a secret from another"
+Line 7: "Trace a circle with the ashes of the dead"
 
 Next time:
 - we decend the tower and continue searching the city.
