@@ -62,3 +62,4 @@ We are able to restore her memories and remove her trauma.  We convince them to 
 
 Next Time:
 - Head to the music hall.
+- Clear the rest of the towers.

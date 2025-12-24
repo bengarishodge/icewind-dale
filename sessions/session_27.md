@@ -52,11 +52,14 @@ And the anvil says the following.
 
 The right of the Arcane Octad (there are 7 lines)
 
-Line 1: "shield thy heart with wand from the netheroak" (From anvil)
-Line 2: "Summon a flame in your palm" (From Devil)
+Line 1: "shield thy heart with wand from the netheroak" (From anvil) 
+Line 2: "Summon a flame in your palm" (From Devil and [[High Conjureror Demoroth]])
 Line 3: "a burnt palm loosens the tongue, shed a secret about yourself for all to hear." (from [[High Diviner Apius]])
-Line 4: "Coax a secret from another"
-Line 7: "Trace a circle with the ashes of the dead"
+Line 4: "Coax a secret from another" (from [[High Enchanter Ivarra]])
+Line 5: (from [[High Evoker Zaduloos]]) 
+Line 6: (from [[High Illusionist Ashimar]])  
+Line 7: "Trace a circle with the ashes of the dead" (from [[High Necromancer Kadavix]])
+Line 8: (from )
 
 Next time:
 - we decend the tower and continue searching the city.
