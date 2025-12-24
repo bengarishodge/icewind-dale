@@ -50,3 +50,5 @@ A bald man with a long purple gown. They are named [[Everlast]], the city's defe
 ![[shadow_weapons.png]]
 
 We defeat the swords and escape the wall of force.
+
+We FINALLY take a long rest.
