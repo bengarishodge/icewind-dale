@@ -27,7 +27,7 @@ We kill [[Iriolarthus]] and find
 - [[scroll of terrasque summoning]]
 - directions on how to use the staff of power in conjunction with the obelisk to turn back time
 - command word to reopen portal - seldranar
-- cammand word to deactivate the shield around the spire - olstean
+- command word to deactivate the shield around the spire - olstean
 
 Next time
 - we level up
